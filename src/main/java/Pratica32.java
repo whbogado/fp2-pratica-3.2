@@ -6,7 +6,7 @@
 public class Pratica32 {
     public static void main(String[] args) {
         double d = densidade(-1, 67, 3);
-        System.out.println("A densidade no ponto é " + d);
+        System.out.println("Densidade no ponto: " + d);
     }
     
     public static double densidade(double x, double media, double desvio) {
